@@ -6,8 +6,8 @@
 <Header />
 
 <PageCentered>
-	<h1>Welcome to SvelteKit</h1>
+	<h1>Page not found.</h1>
 	<p>
-		Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
+		<a href="/">Return home.</a>
 	</p>
 </PageCentered>
